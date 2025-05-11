@@ -1,4 +1,4 @@
-# Flecher-s-Sales-Performance-Analysis-2019-# 📊 Flecher’s Sales Performance Analysis – 2019
+# 📊 Flecher’s Sales Performance Analysis – 2019
 
 A data analytics project focused on uncovering business insights from Flecher’s 2019 transactional sales data. This project was developed as part of my coursework at **Vephla University's School of Data Sciences and Data Engineering**, where I’m currently pursuing a Diploma in Data Analytics.
 
